@@ -1,4 +1,4 @@
-# Two+Number Counter
+# Two+Number Adder
 
 > Note: This guide was developed and tested only on Linux. If you're on Windows or macOS and run into issues, please use a search engine or AI.
 
@@ -27,5 +27,4 @@
    go run main.go
 
  * Enter two numbers to add.
-   * Important: The result must not exceed 9 digits.
  * Press Enter.
